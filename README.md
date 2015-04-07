@@ -1,0 +1,2 @@
+# ArchivosSecuenciales
+Mi Primer Repositorio
